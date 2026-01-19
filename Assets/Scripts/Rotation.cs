@@ -14,7 +14,7 @@ public class Rotation : MonoBehaviour
     void Update()
     {
         Vector3 newRotation = transform.eulerAngles;
-        newRotation.z += speed * Time.deltaTime;
+        newRotation.z -= speed * Time.deltaTime;
         transform.eulerAngles = newRotation;
     }
 }
