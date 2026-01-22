@@ -422,7 +422,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   minSize: 0
   maxSize: 0.5
-  speed: 1
+  speed: 0.8
   t: 0
 --- !u!212 &1368416474
 SpriteRenderer:
@@ -559,7 +559,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   minSize: 0
   maxSize: 1
-  speed: 2
+  speed: 2.5
   t: 0
 --- !u!212 &1407037047
 SpriteRenderer:
@@ -696,7 +696,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   minSize: 0
   maxSize: 3
-  speed: 1
+  speed: 1.7
   t: 0
 --- !u!212 &1454267089
 SpriteRenderer:
